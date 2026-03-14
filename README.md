@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
