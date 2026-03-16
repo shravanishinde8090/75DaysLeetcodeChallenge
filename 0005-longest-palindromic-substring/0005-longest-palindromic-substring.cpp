@@ -5,7 +5,7 @@ public:
         
         for(int i = 0; i < s.length(); i++){
             
-            // Odd length palindrome
+            
             int l = i, r = i;
             while(l >= 0 && r < s.length() && s[l] == s[r]){
                 if(r - l + 1 > maxLen){
