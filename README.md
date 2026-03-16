@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
