@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
