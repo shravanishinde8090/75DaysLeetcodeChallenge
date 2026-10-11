@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
