@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0151-reverse-words-in-a-string](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
