@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,4 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
