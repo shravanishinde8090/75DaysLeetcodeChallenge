@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
