@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/shravanishinde8090/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
 | ------- |
